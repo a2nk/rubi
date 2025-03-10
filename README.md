@@ -1,7 +1,12 @@
 # rubi
 https://rubi.click/join/XRDP
 
-``npm install dotenv axios fs crypto path
+``
+git clone https://github.com/a2nk/rubi.git && cd rubi
+``
+
+``
+npm install dotenv axios fs crypto path
 ``
 
 ``
